@@ -47,6 +47,15 @@ Having studied medicine before transitioning into programming, I bring a unique 
   <img src="https://github.com/user-attachments/assets/048741aa-96db-4129-b974-4c561f0b5dca">
 </a>
 
+<a>
+  <img src="https://github.com/user-attachments/assets/c397ee30-1b4b-4e8e-82de-c5fe05973c61">
+</a>
+
+<a>
+  <img src="https://github.com/user-attachments/assets/de33c642-c875-436e-9088-9450a0fe177e">
+</a>
+
+
 <a href="https://github.com/Pouya-L/philosophers">
   <img src="https://github.com/user-attachments/assets/90812771-939c-4cf8-a552-4be98c4bf494">
 </a>
@@ -54,6 +63,11 @@ Having studied medicine before transitioning into programming, I bring a unique 
 <a href="https://github.com/Pouya-L/cpp-module-00">
   <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
+
+<a href="https://github.com/margarida-paulo/Cub3D">
+  <img src="https://github.com/user-attachments/assets/d21d7cbe-a84b-4fd8-88b4-ff2db15a85d4">
+</a>
+
 
 <div align="center">
 
