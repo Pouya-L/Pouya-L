@@ -36,7 +36,7 @@ Having studied medicine before transitioning into programming, I bring a unique 
 </a>
 
 <a>
-  ![born2beroote](https://github.com/user-attachments/assets/c3175cc3-e870-4446-bab5-7c143b9bbf46)
+  <img src="https://github.com/user-attachments/assets/c3175cc3-e870-4446-bab5-7c143b9bbf46">
 </a>
 
 <a href="https://github.com/Pouya-L/minitalk">
