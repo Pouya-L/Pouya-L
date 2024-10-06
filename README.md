@@ -51,13 +51,11 @@ Having studied medicine before transitioning into programming, I bring a unique 
   <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
 
-</div>
-
----
-
+## Let's get in touch
 <div align="center">
 
-For a detailed overview of my professional experience and qualifications, please refer to my resume linekd below 
+Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/pouya-lashkary-dev/) or reach out via (my e-mail)[Pouya.lashkary@gmail.com] 
+For a detailed overview of my professional experience and qualifications, please refer to my resume linked down below 
 
 <img src="https://github.com/user-attachments/assets/9f931f27-8d3d-4ac3-acb1-32b2cc4ba7d1" alt="Resume" width="500">
 
