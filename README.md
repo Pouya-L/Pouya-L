@@ -35,6 +35,10 @@ Having studied medicine before transitioning into programming, I bring a unique 
   <img src="https://github.com/user-attachments/assets/8d93d667-0f20-4c17-8b15-68dc7067bbb1">
 </a>
 
+<a>
+  ![born2beroote](https://github.com/user-attachments/assets/c3175cc3-e870-4446-bab5-7c143b9bbf46)
+</a>
+
 <a href="https://github.com/Pouya-L/minitalk">
   <img src="https://github.com/user-attachments/assets/2393dc79-b243-4ece-9ab5-49e7b5e3f224">
 </a>
