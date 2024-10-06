@@ -52,6 +52,7 @@ Having studied medicine before transitioning into programming, I bring a unique 
 </a>
 
 <div align="center">
+<div align="center">
 
 For a detailed overview of my professional experience and qualifications, please refer to my resume linekd below 
 
