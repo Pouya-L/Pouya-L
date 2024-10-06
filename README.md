@@ -20,33 +20,33 @@ Having studied medicine before transitioning into programming, I bring a unique 
 ## 42 School Projects
 
 <a href="https://github.com/Pouya-L/libft_full">
-  <img src=![libftm](https://github.com/user-attachments/assets/9aee8afb-aff0-4aca-8c5a-6ea281d65520)>
+  <img src="https://github.com/user-attachments/assets/9aee8afb-aff0-4aca-8c5a-6ea281d65520">
 </a>
 
 <a href="https://github.com/Pouya-L/ft_printf">
-  <img src=![ft_printfe](https://github.com/user-attachments/assets/d2528de6-a701-4105-8e59-27d25c320fa7)>
+  <img src="https://github.com/user-attachments/assets/d2528de6-a701-4105-8e59-27d25c320fa7">
 </a>
 
 <a href="https://github.com/Pouya-L/get_next_line">
-  <img src=![get_next_linem](https://github.com/user-attachments/assets/a5dd7dfb-4181-4567-a42d-9662db376883)>
+  <img src="https://github.com/user-attachments/assets/a5dd7dfb-4181-4567-a42d-9662db376883">
 </a>
 
 <a href="https://github.com/Pouya-L/push_swap">
-  <img src=![push_swapm](https://github.com/user-attachments/assets/8d93d667-0f20-4c17-8b15-68dc7067bbb1)>
+  <img src="https://github.com/user-attachments/assets/8d93d667-0f20-4c17-8b15-68dc7067bbb1">
 </a>
 
 <a href="https://github.com/Pouya-L/minitalk">
-  <img src=![minitalkm](https://github.com/user-attachments/assets/2393dc79-b243-4ece-9ab5-49e7b5e3f224)>
+  <img src="https://github.com/user-attachments/assets/2393dc79-b243-4ece-9ab5-49e7b5e3f224">
 </a>
 
 <a href="https://github.com/Pouya-L/so_long">
-  <img src=![so_longm](https://github.com/user-attachments/assets/048741aa-96db-4129-b974-4c561f0b5dca)>
+  <img src="https://github.com/user-attachments/assets/048741aa-96db-4129-b974-4c561f0b5dca">
 </a>
 
 <a href="https://github.com/Pouya-L/philosophers">
-  <img src=![philosopherse](https://github.com/user-attachments/assets/90812771-939c-4cf8-a552-4be98c4bf494)>
+  <img src="https://github.com/user-attachments/assets/90812771-939c-4cf8-a552-4be98c4bf494">
 </a>
 
 <a href="https://github.com/Pouya-L/cpp-module-00">
-  <img src=![cppm](https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983)>
+  <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
