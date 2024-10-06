@@ -53,6 +53,8 @@ Having studied medicine before transitioning into programming, I bring a unique 
 
 <div align="center">
 
-For a detailed overview of my professional experience and qualifications, please refer to my resume below 
+For a detailed overview of my professional experience and qualifications, please refer to my resume linekd below 
 
 [Pouya Lashkari Bavil Oliaei CV Updated 10_06_2024.pdf](https://github.com/user-attachments/files/17270180/Pouya.Lashkari.Bavil.Oliaei.CV.Updated.10_06_2024.pdf)
+![Resume picture](https://github.com/user-attachments/assets/9f931f27-8d3d-4ac3-acb1-32b2cc4ba7d1)
+
