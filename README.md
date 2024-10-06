@@ -54,8 +54,7 @@ Having studied medicine before transitioning into programming, I bring a unique 
 ## Let's get in touch
 <div align="center">
 
-Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/pouya-lashkary-dev/)
-For a detailed overview of my professional experience and qualifications, please refer to my resume linked down below 
+Feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/pouya-lashkary-dev/). For a detailed overview of my professional experience and qualifications, please refer to my resume linked down below 
 
 <img src="https://github.com/user-attachments/assets/9f931f27-8d3d-4ac3-acb1-32b2cc4ba7d1" alt="Resume" width="500">
 
