@@ -51,7 +51,10 @@ Having studied medicine before transitioning into programming, I bring a unique 
   <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
 
-<h3 align="center">##Languages and Tools</h3>
+<div align="center">
+
+## Languages and Tools
+
 <p align="center">
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a> 
   <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" width="40" height="40"/></a>
