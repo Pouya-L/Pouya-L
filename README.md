@@ -51,7 +51,10 @@ Having studied medicine before transitioning into programming, I bring a unique 
   <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
 
-<div align="center">
+</div>
+
+---
+
 <div align="center">
 
 For a detailed overview of my professional experience and qualifications, please refer to my resume linekd below 
