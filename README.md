@@ -50,3 +50,9 @@ Having studied medicine before transitioning into programming, I bring a unique 
 <a href="https://github.com/Pouya-L/cpp-module-00">
   <img src="https://github.com/user-attachments/assets/c294964a-f67a-4b7a-8127-8091da047983">
 </a>
+
+<div align="center">
+
+For a detailed overview of my professional experience and qualifications, please refer to my resume below 
+
+[Pouya Lashkari Bavil Oliaei CV Updated 10_06_2024.pdf](https://github.com/user-attachments/files/17270180/Pouya.Lashkari.Bavil.Oliaei.CV.Updated.10_06_2024.pdf)
