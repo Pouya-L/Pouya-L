@@ -5,7 +5,7 @@
 
 ### About Me
 
-I'm a 26-year-old student transitioning from a five-year background in medicine to the dynamic world of programming. Currently, I'm studying at 42 Lisboa. 
+I'm a 27-year-old student transitioning from a five-year background in medicine to the dynamic world of programming. Currently, I'm studying at 42 Lisboa. 
 
 ### My Journey
 
